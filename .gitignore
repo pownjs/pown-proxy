@@ -35,3 +35,10 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Snapcraft build directories and files
+*.snap
+parts
+stage
+prime
+snap/.snapcraft/state
